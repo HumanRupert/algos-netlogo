@@ -14,8 +14,11 @@ Agent-based models usually rely on Monte-Carlo methods, which, in layman's terms
 
 [NetLogo](https://ccl.northwestern.edu/netlogo/), designed by Uri Wilensky and developed at the Center for Connected Learning and Computer-Based Modelling for the Northwestern University, is a programming language and IDE for agent-based modelling that uses turtles, patches, and links to build a simulation or model.
 
+<img width="877" alt="Screen Shot 2022-06-13 at 22 03 08" src="https://user-images.githubusercontent.com/46029474/173416504-1f94f574-7bca-4922-b3ba-3764a4c9171f.png">
+
+
 ## Contribution Guidelines
-Create a subfolder for your algorithm in the /algos folder. The folder must include a `model.nlogo` file and a `readme.md`. Provide an intuitive and theoretical explanation for the algorithm you implemented in the readme file. It's generally a good idea to follow the NetLogo style guide while coding.
+Create a subfolder for your algorithm in the /algos folder. The folder must include a `model.nlogo` file, a `model.html` file, and a `readme.md`. Export the NetLogo Web version of your model and put it in the `model.html`. Provide an intuitive and theoretical explanation for the algorithm you implemented in the readme file. It's generally a good idea to follow the NetLogo style guide while coding.
 
 ## To-Do List
 - [] Depth First Search (DFS)
