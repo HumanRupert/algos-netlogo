@@ -1,0 +1,3 @@
+The model is authored by [The Complexity Explorer](http://modelingcommons.org/?id=296).
+
+Huffman coding is an encoding method that gives the most efficient lossless variable-length binary encoding for particular probability distribution of symbols. This model demonstrate the process of generating a Huffman tree and encoding for the frequency distribution in a short message. Given a user-entered string, the model generates a turtle for each symbol, builds a Huffman tree, and generates a code table based of the frequencies of the symbols in the given message. It then gives an encoding of the message in binary and demonstrates how the encoded message can be decoded with the tree.

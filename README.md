@@ -25,7 +25,7 @@ Create a subfolder for your algorithm in the /algos folder. The folder must incl
 - [ ] Breadth First Search (BFS)
 - [ ] Karger's Min-Cut
 - [ ] Dijkstra's SSSP
-- [ ] Huffman Coding
+- [X] Huffman Coding
 - [ ] Ford-Fulkerson Algorithm
 - [ ] Edmonds-Karp Algorithm
 - [ ] Kosaraju's Algorithm
