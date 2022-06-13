@@ -30,7 +30,7 @@ Create a subfolder for your algorithm in the /algos folder. The folder must incl
 - [ ] Edmonds-Karp Algorithm
 - [ ] Kosaraju's Algorithm
 - [ ] Tarjan's Algorithm for SCCs
-- [ ] Mergesort
+- [X] Mergesort
 - [ ] Binary Search
 - [ ] Heapsort
 - [ ] Kuhn's Toposort

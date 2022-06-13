@@ -1,4 +1,4 @@
-The model is authored by [James Steiner](http://modelingcommons.org/?id=296). Further description could be found in the [NetLogo Modelling Commons](http://modelingcommons.org/browse/one_model/3375).
+The model is authored by [James Steiner](http://modelingcommons.org/?id=296). Further description can be found in the [NetLogo Modelling Commons](http://modelingcommons.org/browse/one_model/3375).
 
 ## WHAT IS IT?
 A model to demonstrate a method of constructing a minumum (or maximum) spanning tree for a network using Kruskal's algorithm.
