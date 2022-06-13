@@ -3,7 +3,7 @@
 The repository, once completed, will include the sample code and agent-based models of the algorithms taught in the Computer Science – Module 2 of the Mathematical and Computing Sciences for Artificial Intelligence course.
 
 ## What's an algorithm?
-Algorithms are ways to teach stupid computers to do smart things. They are, more formally, a set of clear and objectives procedures that should be taken to solve a particular problem or make a computation. Humans use algorithms in their everyday life as well. One algorithm that we're all familiar with is the [long multiplication method](https://www.splashlearn.com/math-vocabulary/multiplication/long-multiplication).
+Algorithms are ways to teach stupid computers to do smart things. They are, more formally, a set of clear and objective procedures that should be taken to solve a particular problem or make a computation. Humans use algorithms in their everyday life as well. One algorithm that we're all familiar with is the [long multiplication method](https://www.splashlearn.com/math-vocabulary/multiplication/long-multiplication).
 
 ## What's an agent-based model?
 A computational model is a program that uses algorithmic and computational resources to simulate a phenomenon or a system. An agent-based model is a computational model that uses intelligent agents as its main tool for problem-solving. We can further clarify all these convoluted definitions with a simple example.
