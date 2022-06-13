@@ -21,18 +21,18 @@ Agent-based models usually rely on Monte-Carlo methods, which, in layman's terms
 Create a subfolder for your algorithm in the /algos folder. The folder must include a `model.nlogo` file, a `model.html` file, and a `readme.md`. Export the NetLogo Web version of your model and put it in the `model.html`. Provide an intuitive and theoretical explanation for the algorithm you implemented in the readme file. It's generally a good idea to follow the NetLogo style guide while coding.
 
 ## To-Do List
-- [] Depth First Search (DFS)
-- [] Breadth First Search (BFS)
-- [] Karger's Min-Cut
-- [] Dijkstra's SSSP
-- [] Huffman Coding
-- [] Ford-Fulkerson Algorithm
-- [] Edmonds-Karp Algorithm
-- [] Kosaraju's Algorithm
-- [] Tarjan's Algorithm for SCCs
-- [] Mergesort
-- [] Binary Search
-- [] Heapsort
-- [] Kuhn's Toposort
-- [] Kruskal's MST
-- [] Prim's MST
+- [ ] Depth First Search (DFS)
+- [ ] Breadth First Search (BFS)
+- [ ] Karger's Min-Cut
+- [ ] Dijkstra's SSSP
+- [ ] Huffman Coding
+- [ ] Ford-Fulkerson Algorithm
+- [ ] Edmonds-Karp Algorithm
+- [ ] Kosaraju's Algorithm
+- [ ] Tarjan's Algorithm for SCCs
+- [ ] Mergesort
+- [ ] Binary Search
+- [ ] Heapsort
+- [ ] Kuhn's Toposort
+- [X] Kruskal's MST
+- [ ] Prim's MST
